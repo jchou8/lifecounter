@@ -4,6 +4,6 @@
     <string name="btn_decr">-1</string>
     <string name="btn_incr5">+5</string>
     <string name="btn_decr5">-5</string>
-    <string name="initial_health">10</string>
+    <string name="initial_health">15</string>
     <string name="player">Player</string>
 </resources>
